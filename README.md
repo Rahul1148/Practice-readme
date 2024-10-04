@@ -12,10 +12,10 @@
 ![image 1](/Practice-readme/screenshot/Screenshot%20(3).png)
 'printf(helloworld!)'
 
-'''c
+```C\C++
 #include <stdio.h>
 int main(){
     printf("HelloWorld!");
     return 0;
 }
-'''
+```

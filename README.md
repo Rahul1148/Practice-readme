@@ -8,7 +8,7 @@
 <https://github.com/Rahul1148/Practice-readme>,
 # image add **![alternative text] (file path)**
 
-![screen_shot](/Practice-readme/screenshot/p1.png)
+![screen_shot][def]
 ![image 1](/Practice-readme/screenshot/Screenshot%20(3).png)
 
 `printf(helloworld!)`
@@ -20,3 +20,7 @@ int main(){
     return 0;
 }
 ```
+
+![image2][def]
+
+[def]: /Practice-readme/screenshot/p1.png

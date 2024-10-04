@@ -8,4 +8,4 @@
 <https://github.com/Rahul1148/Practice-readme>,
 # image add **![alternative text] (file path)**
 
-![screen_shot](/screenshot/Screenshot (2).png)
+![screen_shot](/Practice-readme/screenshot/p1.png)
